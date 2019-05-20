@@ -1,0 +1,4 @@
+*.db
+my_env
+*.csv
+.vscode
